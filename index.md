@@ -50,7 +50,7 @@ of them useful or fun.
     <a href="http://www.sorting-algorithms.com/">animated sorting 
     algorithms</a>.</dd>
     
-    <dt><a href="http://donkirkby.googlecode.com/svn/trunk/frequency-flashcards/sentence-rank/output/sentences.html">Chinese
+    <dt><a href="http://donkirkby.github.com/donkirkby/sentences.html">Chinese
     Reading Practice</a></dt>
     <dd>After I'd learned enough characters, I wanted to practice reading, but
     it was frustrating to always have to look up unknown characters. I filtered
