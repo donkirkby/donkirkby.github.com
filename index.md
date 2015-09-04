@@ -23,9 +23,22 @@ Here's a list of some projects I've worked on. Let me know if you find any
 of them useful or fun.
 <dl>
     <dt><a href="live-py-plugin">Live Coding in Python</a></dt>
-    <dd>This is my current passion. It lets you play with Python code, and
+    <dd>Lets you play with Python code, and
     continuously runs the code while you edit it. You can use it to create
     interesting graphics, or see what's happening inside your code.</dd>
+    
+    <dt><a href="vograbulary">Vograbulary</a></dt>
+    <dd>A collection of word games that might help you grab a few new
+    words for your vocabulary. Still in early releases with only a few
+    games: Ultraghost, Russian Dolls, and Bacronyms.</dd>
+    
+    <dt><a href="http://cfe-lab.github.io/Kive/">Kive</a></dt>
+    <dd>Tracks changes to data processing scripts and links each result
+    back to the source data and script versions that produced it. This
+    is one of the projects I get paid to work on at the
+    <a href="http://www.cfenet.ubc.ca/">BC Centre for Excellence in
+    HIV/AIDS</a>. We use it to track our bioinformatics pipelines that
+    analyze genetic sequence data from HIV and Hepatitis C infections.</dd>
     
     <dt><a href="https://donkirkby.github.com/donkirkby/TickingTest">Ticking Test</a></dt>
     <dd>This library ports the 
@@ -79,11 +92,6 @@ of them useful or fun.
     <dd>A birthday cake that I designed for a coworker. It's decorated with C
     code that prints the words to "Happy Birthday". Also includes a bunch of
     cakes by other people.</dd>
-    
-    <dt><a href="vograbulary">Vograbulary</a></dt>
-    <dd>Add new words to a student's vocabulary and make the words stick (grab 
-    them). Still in early releases with only the first word challenge:
-    Ultraghost.</dd>
 </dl>
 
 You can find descriptions of more projects at 
