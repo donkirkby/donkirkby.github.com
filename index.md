@@ -32,6 +32,24 @@ of them useful or fun.
     words for your vocabulary. Still in early releases with only a few
     games: Ultraghost, Russian Dolls, and Bacronyms.</dd>
     
+    <dt><a href="http://www.workman.com/products/9780761185154/">The
+    Infinite Board Game</a></dt>
+    <dd>A book of games for the piecepack, including two that I
+    designed. The book comes with a piecepack (tiles, coins, pawns,
+    and dice) and the rules for 50 games. You can order your own copy
+    from the link above or from
+    <a href="http://www.amazon.com/dp/0761185151">Amazon</a>.</dd>
+    
+    <dt><a href="http://gapdjournal.com/">Game and Puzzle Design
+    Journal</a></dt>
+    <dd>I'm on the editorial panel for this academic journal with
+    articles like an analysis of influence between countries in Risk
+    or a description of the Japanese concept of poka-yoke for using
+    design elements to embed the rules of a game in the game
+    components. You can subscribe to two issues per year, or you can
+    read a few <a href="http://gapdjournal.com/issues/">free
+    articles</a> posted on the web site.</dd>
+    
     <dt><a href="http://cfe-lab.github.io/Kive/">Kive</a></dt>
     <dd>Tracks changes to data processing scripts and links each result
     back to the source data and script versions that produced it. This
