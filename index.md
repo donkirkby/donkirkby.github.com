@@ -34,14 +34,17 @@ of them useful or fun.
     
     <dt><a href="http://www.workman.com/products/9780761185154/">The
     Infinite Board Game</a></dt>
-    <dd>A book of games for the piecepack, including one that I
-    designed with Jay Cormier. The book comes with a piecepack (tiles,
+    <dd>A book of games for the piecepack, including two I designed,
+    one with Jay Cormier. The book comes with a piecepack (tiles,
     coins, pawns,
     and dice) and the rules for 50 games. You can order your own copy
     from the link above or send a few cents my way by ordering from
     <a href="http://www.amazon.ca/gp/product/0761185151/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=0761185151&linkCode=as2&tag=donkir00-20">amazon.ca</a>
     or
-    <a href="http://www.amazon.com/gp/product/0761185151/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0761185151&linkCode=as2&tag=donkir-20&linkId=T5EXILXS6BEVRT5O">amazon.com</a>.</dd>
+    <a href="http://www.amazon.com/gp/product/0761185151/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0761185151&linkCode=as2&tag=donkir-20&linkId=T5EXILXS6BEVRT5O">amazon.com</a>.
+    If you already have a piecepack, the rules for my games are
+    on <a href="http://www.ludism.org/ppwiki/DonKirkby">the piecepack
+    wiki</a>.</dd>
     
     <dt><a href="moonside">Moonside</a></dt>
     <dd>A domino puzzle I designed, inspired by Rush Hour and Mahjong
