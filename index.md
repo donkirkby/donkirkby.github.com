@@ -43,6 +43,10 @@ of them useful or fun.
     or
     <a href="http://www.amazon.com/gp/product/0761185151/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0761185151&linkCode=as2&tag=donkir-20&linkId=T5EXILXS6BEVRT5O">amazon.com</a>.</dd>
     
+    <dt><a href="moonside">Moonside</a></dt>
+    <dd>A domino puzzle I designed, inspired by Rush Hour and Mahjong
+    matching puzzles.</dd>
+    
     <dt><a href="http://gapdjournal.com/">Game and Puzzle Design
     Journal</a></dt>
     <dd>I'm on the editorial panel for this academic journal with
