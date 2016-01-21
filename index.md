@@ -65,6 +65,16 @@ of them useful or fun.
     HIV/AIDS</a>. We use it to track our bioinformatics pipelines that
     analyze genetic sequence data from HIV and Hepatitis C infections.</dd>
     
+    <dt><a href="https://github.com/cfe-lab/MiCall">MiCall</a></dt>
+    <dd>Maps hundreds of thousands of small genetic sequences to a
+    set of reference sequences, then stitches them all together. Useful
+    for finding out which drugs will be effective for a patient's HIV
+    or Hepatitis C infection, as well as examining the virus's
+    evolution in a patient or in a community. This is another of the
+    projects I get paid to work on at the
+    <a href="http://www.cfenet.ubc.ca/">BC Centre for Excellence in
+    HIV/AIDS</a>.</dd>
+    
     <dt><a href="https://donkirkby.github.com/donkirkby/TickingTest">Ticking Test</a></dt>
     <dd>This library ports the 
     <a href="https://code.google.com/p/multithreadedtc/">MultithreadedTC</a> 
