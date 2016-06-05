@@ -10,6 +10,8 @@ contact me, use
 <a href="http://www.google.com/recaptcha/mailhide/d?k=01PxMhmzBXZ6RTE_q0gU-dEA==&amp;c=x_pL0sQHAaTbWaBA2rGEX6F6mWc2ru6wZ0i4DcdrVz8=">e-mail</a>
 if you're old-school.
 
+If you'd like to help end the AIDS epidemic, [come work with me][jobs].
+
 If you're wondering whether I can write anything besides code, see my Stack
 Overflow profile:
 
@@ -134,3 +136,5 @@ of them useful or fun.
 
 You can find descriptions of more projects at 
 <a href="http://donkirkby.blogspot.com">the blog</a>.
+
+[jobs]: http://www.cfenet.ubc.ca/join-us/careers
