@@ -48,7 +48,7 @@ of them useful or fun.
     on <a href="http://www.ludism.org/ppwiki/DonKirkby">the piecepack
     wiki</a>.</dd>
     
-    <dt><a href="moonside">Moonside</a></dt>
+    <dt><a href="donimoes">Donimoes</a></dt>
     <dd>A domino puzzle I designed, inspired by Rush Hour and Mahjong
     matching puzzles.</dd>
     
