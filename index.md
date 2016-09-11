@@ -34,7 +34,7 @@ of them useful or fun.
         <dd>A collection of word games that might help you grab a few new
         words for your vocabulary. Still in early releases with only a few
         games: Ultraghost, Russian Dolls, and Bacronyms.</dd>
-    <dt>[Testing Python][testing]</dt>
+    <dt><a href="http://donkirkby.github.com/testing">Testing Python</a></dt>
         <dd>An essay on unit testing in Python, along with some sample code.</dd>
     <dt><a href="http://www.workman.com/products/9780761185154/">The
         Infinite Board Game</a></dt>
@@ -127,4 +127,3 @@ You can find descriptions of more projects at
 <a href="http://donkirkby.blogspot.com">the blog</a>.
 
 [jobs]: http://www.cfenet.ubc.ca/join-us/careers
-[testing]: http://donkirkby.github.com/testing
