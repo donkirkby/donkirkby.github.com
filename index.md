@@ -86,7 +86,7 @@ talk to me about one of these, or check out some of my other [ideas][].
         <dd>The library lets you declare a method for each thread that you want to 
         run, and then coordinate the timing of the thread execution with checkpoints 
         called ticks.</dd>
-    <dt><a href="http://donkirkby.github.com/pinyincushion">Simple Chinese
+    <dt><a href="https://github.com/donkirkby/pinyincushion">Simple Chinese
     Writer</a></dt>
         <dd>Helps you write Chinese text in your browser, using basic vocabulary.
         It highlights uncommon words that Chinese learners might not know, and
