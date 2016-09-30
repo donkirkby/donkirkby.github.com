@@ -15,7 +15,7 @@ new projects that I've been thinking of starting:
     twitterbot. Looks at following relationships to find two influential tweeters
     where A follows B directly, but B follows A through n hops. Make a
     competition of it, and announce each day/week's winner.
-* **Geysers** - Explorable explanation of how geysers work. @ncasemare mentioned
+* **Geysers** - Explorable explanation of how geysers work. @ncasenmare mentioned
     some libraries that help build explorable explanations.
 * **BitTorrent visualization** - Explain how the BitTorrent protocol works.
     Straight SVG using same tools as Chinese stroke order project? Maybe

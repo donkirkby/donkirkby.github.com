@@ -135,4 +135,4 @@ You can find descriptions of more projects at
 <a href="http://donkirkby.blogspot.com">the blog</a>.
 
 [jobs]: http://www.cfenet.ubc.ca/join-us/careers
-[ideas]: http://donkirkby.github.com/ideas.html
+[ideas]: http://donkirkby.github.com/ideas
