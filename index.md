@@ -3,7 +3,7 @@ title: Don Kirkby
 subtitle: Playful programming
 ---
 
-You found my user page on github. The interesting stuff is on the individual
+You found my user page on GitHub. The interesting stuff is on the individual
 project pages, like <a href="live-py-plugin">Live Coding in Python</a>. You can 
 contact me [@donkirkby][twitter] or on
 <a href="http://profiles.google.com/donkirkby">Google+</a>. You can also use
@@ -24,7 +24,8 @@ title="profile for Don Kirkby at Stack Overflow, Q&amp;A for professional and en
 [twitter]: https://twitter.com/donkirkby
 
 Here's a list of some projects I've worked on. Let me know if you find any
-of them useful or fun.
+of them useful or fun. If you'd like to collaborate with me in your spare time,
+talk to me about one of these, or check out some of my other [ideas][].
 <dl>
     <dt><a href="live-py-plugin">Live Coding in Python</a></dt>
         <dd>Lets you play with Python code, and
@@ -85,6 +86,13 @@ of them useful or fun.
         <dd>The library lets you declare a method for each thread that you want to 
         run, and then coordinate the timing of the thread execution with checkpoints 
         called ticks.</dd>
+    <dt><a href="http://donkirkby.github.com/pinyincushion">Simple Chinese
+    Writer</a></dt>
+        <dd>Helps you write Chinese text in your browser, using basic vocabulary.
+        It highlights uncommon words that Chinese learners might not know, and
+        also displays pinyin pronunciation with the characters. It's a Chinese
+        version of XKCD's <a href="https://xkcd.com/simplewriter/">Simple
+        Writer</a>.</dd>
     <dt><a href="http://donkirkby.github.com/donkirkby/ChineseVocabulary">Chinese
     Vocabulary Flashcards</a></dt>
         <dd>A fun project to generate several thousand flashcards for reviewing
@@ -127,3 +135,4 @@ You can find descriptions of more projects at
 <a href="http://donkirkby.blogspot.com">the blog</a>.
 
 [jobs]: http://www.cfenet.ubc.ca/join-us/careers
+[ideas]: http://donkirkby.github.com/ideas.html
