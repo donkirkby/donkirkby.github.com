@@ -1,3 +1,7 @@
+---
+title: Project Ideas
+subtitle: What should we build tonight, Brain?
+---
 Interested in working with me on a project? Here are some ideas for
 new projects that I've been thinking of starting:
 
