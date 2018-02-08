@@ -5,13 +5,11 @@ subtitle: What should we build tonight, Brain?
 Interested in working with me on a project? Here are some ideas for
 new projects that I've been thinking of starting:
 
-* **Rotten tomatoes mashup with Bibliocommons** - Sort movies and TV shows from
-    the [library][] based on their [Rotten Tomatoes][] score.
 * **Cosmic Ray** - This is someone else's project, but I've been meaning to try
     it out, and maybe contribute a mutator or something.
 * **Chinese poems to read** - Crawl the examples at [chinese-poems.com][] and
     look for ones that use vocabulary I know.
-* **HyperDev Twitterbot** - Try out [HyperDev][] with a toy project like a
+* **Glitch Twitterbot** - Try out [Glitch][] with a toy project like a
     twitterbot. Looks at following relationships to find two influential tweeters
     where A follows B directly, but B follows A through n hops. Make a
     competition of it, and announce each day/week's winner.
@@ -43,15 +41,14 @@ new projects that I've been thinking of starting:
     more diagram.
 * **Timer / Scorekeeper app** - Different game timer styles, scorekeeper like
     Cribbage board, view score history and adjust, lose abilities as you run
-    out of time, lose game when clock reaches zero. Handicapping features?
+    out of time, lose game when clock reaches zero. Handicapping features? Good
+    example for [pyqtdeploy], and maybe even [emscripten-qt].
 * **Logic Puzzles** - Android app to publish puzzles from mathgrant.blogspot.ca
     and gmpuzzles.com, maybe add computer generated ones and a way to share your
     own.
 
-[library]: http://developer.bibliocommons.com/docs
-[Rotten Tomatoes]: http://developer.rottentomatoes.com/
 [chinese-poems.com]: http://www.chinese-poems.com/
-[HyperDev]: https://hyperdev.com
+[Glitch]: https://glitch.com/
 [sortvis.org]: http://sortvis.org
 [ggp.org]: http://www.ggp.org/
 [palamedes-ide]: http://palamedes-ide.sourceforge.net/
@@ -63,3 +60,5 @@ new projects that I've been thinking of starting:
 [Coursera]: https://www.coursera.org/learn/build-a-computer
 [nand2tetris.org]: http://www.nand2tetris.org/
 [Learn Git Branching]: http://pcottle.github.com/learnGitBranching/
+[pyqtdeploy]: http://pyqt.sourceforge.net/Docs/pyqtdeploy/introduction.html
+[emscripten-qt]: http://qtandeverything.blogspot.ca/2017/06/qt-for-web-assembly.html
