@@ -41,10 +41,9 @@ talk to me about one of these, or check out some of my other [ideas][].
         Infinite Board Game</a></dt>
         <dd>A book of games for the piecepack, including two I designed,
         one with Jay Cormier. The book comes with a piecepack (tiles,
-        coins, pawns,
-        and dice) and the rules for 50 games. You can order your own copy
-        from the link above or from
-        <a href="http://www.amazon.com/gp/product/0761185151>amazon.com</a>.
+        coins, pawns, and dice) and the rules for 50 games. You can order
+        your own copy from the link above or from
+        <a href="http://www.amazon.com/gp/product/0761185151">amazon.com</a>.
         If you already have a piecepack, the rules for my games are
         on <a href="http://www.ludism.org/ppwiki/DonKirkby">the piecepack
         wiki</a>.</dd>
