@@ -5,9 +5,7 @@ subtitle: Playful programming
 
 You found my user page on GitHub. The interesting stuff is on the individual
 project pages, like <a href="live-py-plugin">Live Coding in Python</a>. You can 
-contact me [@donkirkby][twitter] or on [Google+]
-[Google+]. You can also use
-[e-mail] if you're old-school.
+contact me [@donkirkby][twitter], or use [e-mail] if you're old school.
 
 If you'd like to help end the AIDS epidemic, [come work with me][jobs].
 
@@ -21,8 +19,6 @@ title="profile for Don Kirkby at Stack Overflow, Q&amp;A for professional and en
 </a>
 
 [twitter]: https://twitter.com/donkirkby
-[Google+]: http://profiles.google.com/donkirkby
-[other]: https://www.dropbox.com/s/cx7c1dip66297ir/keys.kdb?dl=0
 [e-mail]: mailto:donkirkby@gmail.com
 
 Here's a list of some projects I've worked on. Let me know if you find any
