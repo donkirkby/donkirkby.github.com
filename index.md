@@ -29,6 +29,9 @@ talk to me about one of these, or check out some of my other [ideas][].
         <dd>Lets you play with Python code, and
         continuously runs the code while you edit it. You can use it to create
         interesting graphics, or see what's happening inside your code.</dd>
+    <dt><a href="donimoes">Donimoes</a></dt>
+        <dd>New games and puzzles I designed, along with games by other
+        designers.</dd>
     <dt><a href="vograbulary">Vograbulary</a></dt>
         <dd>A collection of word games that might help you grab a few new
         words for your vocabulary. Still in early releases with only a few
@@ -45,16 +48,18 @@ talk to me about one of these, or check out some of my other [ideas][].
         If you already have a piecepack, the rules for my games are
         on <a href="http://www.ludism.org/ppwiki/DonKirkby">the piecepack
         wiki</a>.</dd>
-    <dt><a href="donimoes">Donimoes</a></dt>
-        <dd>A domino puzzle I designed, inspired by Rush Hour and Mahjong
-        matching puzzles.</dd>
+    <dt><a href="https://www.abstractgames.org/">Abstract Games Magazine</a></dt>
+        <dd>I helped out with proofreading and game reviews back in the early
+        2000s, and I'm happy to announce that it has returned in 2019! You can
+        now read all the articles on the web site, or buy a paper edition. 
     <dt><a href="http://gapdjournal.com/">Game and Puzzle Design
     Journal</a></dt>
         <dd>I'm on the editorial panel for this academic journal with
         articles like an analysis of influence between countries in Risk
         or a description of the Japanese concept of poka-yoke for using
         design elements to embed the rules of a game in the game
-        components. You can subscribe to two issues per year, or you can
+        components. The journal is now on hiatus, but you can still buy the old
+        issues, or you can
         read a few <a href="http://gapdjournal.com/issues/">free
         articles</a> posted on the web site.</dd>
     <dt><a href="http://cfe-lab.github.io/Kive/">Kive</a></dt>
