@@ -12,8 +12,8 @@ If you'd like to help end the AIDS epidemic, [come work with me][jobs].
 If you're wondering whether I can write anything besides code, check out my
 Stack Overflow profile:
 
-<a href="http://stackoverflow.com/users/4794/don-kirkby">
-<img src="http://stackoverflow.com/users/flair/4794.png" width="208" height="58" 
+<a href="https://stackoverflow.com/users/4794/don-kirkby">
+<img src="https://stackoverflow.com/users/flair/4794.png" width="208" height="58" 
 alt="profile for Don Kirkby at Stack Overflow, Q&amp;A for professional and enthusiast programmers" 
 title="profile for Don Kirkby at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
@@ -22,7 +22,7 @@ It seems very odd to me that a web site I mostly use to keep notes whenever I
 research a tricky programming problem says that those notes have helped several
 million strangers.
 
-[Live Coding in Python]: live-py-plugin
+[Live Coding in Python]: live-py-plugin/
 [twitter]: https://twitter.com/donkirkby
 [e-mail]: mailto:donkirkby@gmail.com
 [jobs]: http://cfenet.ubc.ca/join-us/careers
@@ -32,7 +32,7 @@ Here's a list of some projects I've worked on. Let me know if you find any
 of them useful or fun. If you'd like to collaborate with me in your spare time,
 talk to me about one of these, or check out some of my other [ideas].
 
-[ideas]: http://donkirkby.github.com/ideas
+[ideas]: ideas/
 
 ### Board Games and Puzzles
 * [Donimoes] - New games and puzzles I designed, along with games by other
@@ -64,15 +64,15 @@ talk to me about one of these, or check out some of my other [ideas].
     designed as a way to let the players create their own historical trivia 
     questions.
 
-[Donimoes]: donimoes
-[Vograbulary]: vograbulary
+[Donimoes]: donimoes/
+[Vograbulary]: vograbulary/
 [The Infinite Board Game]: https://www.amazon.com/dp/0761185151
 [piecepack wiki]: http://www.ludism.org/ppwiki/DonKirkby
 [Abstract Games Magazine]: https://www.abstractgames.org/
 [Game and Puzzle Design Journal]: http://gapdjournal.com/
 [free articles]: http://gapdjournal.com/issues/
-[Blind Hex]: blind-hex
-[Fortune Puzzles]: https://donkirkby.github.com/donkirkby/FortunePuzzles
+[Blind Hex]: blind-hex/
+[Fortune Puzzles]: https://donkirkby.github.io/donkirkby/FortunePuzzles
 [The Time Traveller's Tow Truck]: https://donkirkby.github.io/donkirkby/TimeTravellersTowTruck
 
 ### Software
@@ -116,8 +116,7 @@ talk to me about one of these, or check out some of my other [ideas].
     unknown characters. I filtered through the Chinese sentences on
     [tatoeba.org] to find sentences that only used the most common characters.
 
-[Live Coding in Python]: live-py-plugin
-[Testing Python]: https://donkirkby.github.io/testing
+[Testing Python]: testing/
 [Kive]: https://cfe-lab.github.io/Kive/
 [BC Centre for Excellence in HIV/AIDS]: http://cfenet.ubc.ca/
 [MiCall]: https://github.com/cfe-lab/MiCall
@@ -130,7 +129,7 @@ talk to me about one of these, or check out some of my other [ideas].
 [sorting algorithms]: https://web.archive.org/web/20170917130815/http://sortvis.org/
 [animated sorting algorithms]: https://www.toptal.com/developers/sorting-algorithms
 [Chinese Reading Practice]: https://donkirkby.github.io/donkirkby/sentences.html
-[tatoeba.org]: http://tatoeba.org
+[tatoeba.org]: https://tatoeba.org/eng/
 
 ### Other Stuff
 * [Birthday cakes for programmers] - A birthday cake that I designed for a coworker. It's decorated with C
