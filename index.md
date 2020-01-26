@@ -32,7 +32,7 @@ Here's a list of some projects I've worked on. Let me know if you find any
 of them useful or fun. If you'd like to collaborate with me in your spare time,
 talk to me about one of these, or check out some of my other [ideas].
 
-[ideas]: ideas/
+[ideas]: ideas
 
 ### Board Games and Puzzles
 * [Donimoes] - New games and puzzles I designed, along with games by other
