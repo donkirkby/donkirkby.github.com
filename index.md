@@ -18,9 +18,10 @@ alt="profile for Don Kirkby at Stack Overflow, Q&amp;A for professional and enth
 title="profile for Don Kirkby at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 
-It seems very odd to me that a web site I mostly use to keep notes whenever I
-research a tricky programming problem says that those notes have helped several
-million strangers.
+I mostly use Stack Overflow to keep notes whenever I research a tricky
+programming problem, so it seems very odd to me that the site says those notes
+have helped several million strangers. Maybe you should try taking notes in a
+public place.
 
 [Live Coding in Python]: live-py-plugin/
 [twitter]: https://twitter.com/donkirkby

@@ -1,0 +1,5 @@
+# Jekyll build
+/_site
+
+# PyCharm config
+/.idea
