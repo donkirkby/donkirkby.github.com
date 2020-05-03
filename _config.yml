@@ -1,2 +1,8 @@
 remote_theme: chrisrhymes/bulma-clean-theme
 title: Don Kirkby
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      hero_image: /images/index_hero.jpg
