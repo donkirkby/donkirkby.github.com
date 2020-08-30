@@ -73,8 +73,8 @@ talk to me about one of these, or check out some of my other [ideas].
 [Game and Puzzle Design Journal]: http://gapdjournal.com/
 [free articles]: http://gapdjournal.com/issues/
 [Blind Hex]: blind-hex/
-[Fortune Puzzles]: https://donkirkby.github.io/donkirkby/FortunePuzzles
-[The Time Traveller's Tow Truck]: https://donkirkby.github.io/donkirkby/TimeTravellersTowTruck
+[Fortune Puzzles]: https://donkirkby.github.io/donkirkby-old/FortunePuzzles
+[The Time Traveller's Tow Truck]: https://donkirkby.github.io/donkirkby-old/TimeTravellersTowTruck
 
 ### Software
 * [Live Coding in Python] - Lets you play with Python code, and continuously
@@ -121,15 +121,15 @@ talk to me about one of these, or check out some of my other [ideas].
 [Kive]: https://cfe-lab.github.io/Kive/
 [BC Centre for Excellence in HIV/AIDS]: http://cfenet.ubc.ca/
 [MiCall]: https://github.com/cfe-lab/MiCall
-[Ticking Test]: https://donkirkby.github.io/donkirkby/TickingTest
+[Ticking Test]: https://donkirkby.github.io/donkirkby-old/TickingTest
 [MultithreadedTC]: https://code.google.com/p/multithreadedtc/
-[Ticking Test repository]: https://github.com/donkirkby/donkirkby/tree/master/TickingTest
+[Ticking Test repository]: https://github.com/donkirkby/donkirkby-old/tree/master/TickingTest
 [Simple Chinese Writer]: https://github.com/donkirkby/pinyincushion
 [Simple Writer]: https://xkcd.com/simplewriter/
-[Chinese Vocabulary Flashcards]: https://donkirkby.github.io/donkirkby/ChineseVocabulary
+[Chinese Vocabulary Flashcards]: https://donkirkby.github.io/donkirkby-old/ChineseVocabulary
 [sorting algorithms]: https://web.archive.org/web/20170917130815/http://sortvis.org/
 [animated sorting algorithms]: https://www.toptal.com/developers/sorting-algorithms
-[Chinese Reading Practice]: https://donkirkby.github.io/donkirkby/sentences.html
+[Chinese Reading Practice]: https://donkirkby.github.io/donkirkby-old/sentences.html
 [tatoeba.org]: https://tatoeba.org/eng/
 
 ### Other Stuff
