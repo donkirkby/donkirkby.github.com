@@ -64,6 +64,20 @@ talk to me about one of these, or check out some of my other [ideas].
 * [The Time Traveller's Tow Truck] - A time-travelling trivia game that I 
     designed as a way to let the players create their own historical trivia 
     questions.
+* [Six-Piece Burr Puzzles] - I made a set of these for myself many years ago. I
+    love them, because a set of 42 wooden pieces can be combined into over 200
+    sets of six pieces, each with a different solution. Each piece took me about
+    an hour to make with hand tools, and I spread the project out over a year.
+    My online avatar is a photo of a six-piece burr puzzle.
+* [Akron] - I love the board game Hex and other connection games, so I was
+    excited when I learned about Akron. I used a computer-controlled milling
+    machine to make myself a 9x9 board to stack marbles on.
+* [Shibumi] and [Zero Play] - After designing Akron, Cameron Browne came up with
+    the idea of stacking marbles on a 4x4 grid to make a whole game system with
+    many different kinds of games. The system is called Shibumi, and I'm
+    writing a program to play several games in the collection. I'm also writing
+    Zero Play as a general-purpose Python library that can learn to play any
+    kind of board game.
 
 [Donimoes]: donimoes/
 [Vograbulary]: vograbulary/
@@ -75,6 +89,10 @@ talk to me about one of these, or check out some of my other [ideas].
 [Blind Hex]: blind-hex/
 [Fortune Puzzles]: https://donkirkby.github.io/donkirkby-old/FortunePuzzles
 [The Time Traveller's Tow Truck]: https://donkirkby.github.io/donkirkby-old/TimeTravellersTowTruck
+[Six-Piece Burr Puzzles]: https://johnrausch.com/PuzzlingWorld/chap05.htm
+[Akron]: http://cambolbro.com/games/akron/
+[Shibumi]: https://donkirkby.github.io/shibumi-games/
+[Zero Play]: https://donkirkby.github.io/zero-play/
 
 ### Software
 * [Live Coding in Python] - Lets you play with Python code, and continuously
@@ -140,6 +158,11 @@ talk to me about one of these, or check out some of my other [ideas].
 
 You can find descriptions of more projects at [my blog].
 
+### What's in the Picture?
+
+![Labeled Projects]
+
 [Top 40 Years Ago]: https://twitter.com/top40yearsago
 [Birthday cakes for programmers]: https://donkirkby.blogspot.ca/2011/05/birthday-cakes-for-programmers.html
 [my blog]: https://donkirkby.blogspot.com
+[Labeled Projects]: images/labeled_projects.jpg
