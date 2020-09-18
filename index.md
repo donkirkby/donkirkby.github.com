@@ -90,7 +90,7 @@ talk to me about one of these, or check out some of my other [ideas].
 [Fortune Puzzles]: https://donkirkby.github.io/donkirkby-old/FortunePuzzles
 [The Time Traveller's Tow Truck]: https://donkirkby.github.io/donkirkby-old/TimeTravellersTowTruck
 [Six-Piece Burr Puzzles]: https://johnrausch.com/PuzzlingWorld/chap05.htm
-[Akron]: http://cambolbro.com/games/akron/
+[Akron]: https://donkirkby.blogspot.com/2011/11/akron-board-milling-project.html
 [Shibumi]: https://donkirkby.github.io/shibumi-games/
 [Zero Play]: https://donkirkby.github.io/zero-play/
 
