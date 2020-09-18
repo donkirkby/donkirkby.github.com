@@ -83,7 +83,7 @@ talk to me about one of these, or check out some of my other [ideas].
 [Vograbulary]: vograbulary/
 [The Infinite Board Game]: https://www.amazon.com/dp/0761185151
 [piecepack wiki]: http://www.ludism.org/ppwiki/DonKirkby
-[Abstract Games Magazine]: https://www.abstractgames.org/
+[Abstract Games Magazine]: http://www.abstractgames.org/
 [Game and Puzzle Design Journal]: http://gapdjournal.com/
 [free articles]: http://gapdjournal.com/issues/
 [Blind Hex]: blind-hex/
