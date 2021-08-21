@@ -38,6 +38,8 @@ talk to me about one of these, or check out some of my other [ideas].
 ### Board Games and Puzzles
 * [Donimoes] - New games and puzzles I designed, along with games by other
     designers.
+* [Four-Letter Blocks] - A new type of puzzle I designed that's a mix of
+    crossword puzzles and jigsaw puzzles.
 * [Vograbulary] - A collection of word games that might help you grab a few 
     new words for your vocabulary. Still in early releases with only a few 
     games: Ultraghost, Russian Dolls, and Bacronyms. 
@@ -80,6 +82,7 @@ talk to me about one of these, or check out some of my other [ideas].
     kind of board game.
 
 [Donimoes]: donimoes/
+[Four-Letter Blocks]: four-letter-blocks/
 [Vograbulary]: vograbulary/
 [The Infinite Board Game]: https://www.amazon.com/dp/0761185151
 [piecepack wiki]: http://www.ludism.org/ppwiki/DonKirkby
