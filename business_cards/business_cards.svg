@@ -10,153 +10,134 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="765"
-   height="990"
-   id="svg2"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.40001"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   id="svg3990"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="business_cards.svg">
   <defs
-     id="defs4">
+     id="defs3984">
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3125">
-      <path
-         sodipodi:type="arc"
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3127"
-         sodipodi:cx="52.142857"
-         sodipodi:cy="89.642853"
-         sodipodi:rx="40"
-         sodipodi:ry="38.214287"
-         d="m 92.142857,89.642853 a 40,38.214287 0 1 1 -80,0 40,38.214287 0 1 1 80,0 z"
-         transform="translate(0,62.362183)" />
+         transform="translate(0,62.362183)"
+         cx="52.142857"
+         cy="89.642853"
+         rx="40"
+         ry="38.214287" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3125-7">
-      <path
-         sodipodi:type="arc"
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3127-3"
-         sodipodi:cx="52.142857"
-         sodipodi:cy="89.642853"
-         sodipodi:rx="40"
-         sodipodi:ry="38.214287"
-         d="m 92.142857,89.642853 a 40,38.214287 0 1 1 -80,0 40,38.214287 0 1 1 80,0 z"
-         transform="translate(0,62.362183)" />
+         transform="translate(0,62.362183)"
+         cx="52.142857"
+         cy="89.642853"
+         rx="40"
+         ry="38.214287" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3125-4">
-      <path
-         sodipodi:type="arc"
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3127-0"
-         sodipodi:cx="52.142857"
-         sodipodi:cy="89.642853"
-         sodipodi:rx="40"
-         sodipodi:ry="38.214287"
-         d="m 92.142857,89.642853 a 40,38.214287 0 1 1 -80,0 40,38.214287 0 1 1 80,0 z"
-         transform="translate(0,62.362183)" />
+         transform="translate(0,62.362183)"
+         cx="52.142857"
+         cy="89.642853"
+         rx="40"
+         ry="38.214287" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3125-9">
-      <path
-         sodipodi:type="arc"
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3127-7"
-         sodipodi:cx="52.142857"
-         sodipodi:cy="89.642853"
-         sodipodi:rx="40"
-         sodipodi:ry="38.214287"
-         d="m 92.142857,89.642853 a 40,38.214287 0 1 1 -80,0 40,38.214287 0 1 1 80,0 z"
-         transform="translate(0,62.362183)" />
+         transform="translate(0,62.362183)"
+         cx="52.142857"
+         cy="89.642853"
+         rx="40"
+         ry="38.214287" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3125-43">
-      <path
-         sodipodi:type="arc"
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3127-8"
-         sodipodi:cx="52.142857"
-         sodipodi:cy="89.642853"
-         sodipodi:rx="40"
-         sodipodi:ry="38.214287"
-         d="m 92.142857,89.642853 a 40,38.214287 0 1 1 -80,0 40,38.214287 0 1 1 80,0 z"
-         transform="translate(0,62.362183)" />
+         transform="translate(0,62.362183)"
+         cx="52.142857"
+         cy="89.642853"
+         rx="40"
+         ry="38.214287" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3125-3">
-      <path
-         sodipodi:type="arc"
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3127-03"
-         sodipodi:cx="52.142857"
-         sodipodi:cy="89.642853"
-         sodipodi:rx="40"
-         sodipodi:ry="38.214287"
-         d="m 92.142857,89.642853 a 40,38.214287 0 1 1 -80,0 40,38.214287 0 1 1 80,0 z"
-         transform="translate(0,62.362183)" />
+         transform="translate(0,62.362183)"
+         cx="52.142857"
+         cy="89.642853"
+         rx="40"
+         ry="38.214287" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3125-7-7">
-      <path
-         sodipodi:type="arc"
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3127-3-2"
-         sodipodi:cx="52.142857"
-         sodipodi:cy="89.642853"
-         sodipodi:rx="40"
-         sodipodi:ry="38.214287"
-         d="m 92.142857,89.642853 a 40,38.214287 0 1 1 -80,0 40,38.214287 0 1 1 80,0 z"
-         transform="translate(0,62.362183)" />
+         transform="translate(0,62.362183)"
+         cx="52.142857"
+         cy="89.642853"
+         rx="40"
+         ry="38.214287" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3125-4-9">
-      <path
-         sodipodi:type="arc"
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3127-0-9"
-         sodipodi:cx="52.142857"
-         sodipodi:cy="89.642853"
-         sodipodi:rx="40"
-         sodipodi:ry="38.214287"
-         d="m 92.142857,89.642853 a 40,38.214287 0 1 1 -80,0 40,38.214287 0 1 1 80,0 z"
-         transform="translate(0,62.362183)" />
+         transform="translate(0,62.362183)"
+         cx="52.142857"
+         cy="89.642853"
+         rx="40"
+         ry="38.214287" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3125-9-7">
-      <path
-         sodipodi:type="arc"
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3127-7-4"
-         sodipodi:cx="52.142857"
-         sodipodi:cy="89.642853"
-         sodipodi:rx="40"
-         sodipodi:ry="38.214287"
-         d="m 92.142857,89.642853 a 40,38.214287 0 1 1 -80,0 40,38.214287 0 1 1 80,0 z"
-         transform="translate(0,62.362183)" />
+         transform="translate(0,62.362183)"
+         cx="52.142857"
+         cy="89.642853"
+         rx="40"
+         ry="38.214287" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3125-43-5">
-      <path
-         sodipodi:type="arc"
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3127-8-8"
-         sodipodi:cx="52.142857"
-         sodipodi:cy="89.642853"
-         sodipodi:rx="40"
-         sodipodi:ry="38.214287"
-         d="m 92.142857,89.642853 a 40,38.214287 0 1 1 -80,0 40,38.214287 0 1 1 80,0 z"
-         transform="translate(0,62.362183)" />
+         transform="translate(0,62.362183)"
+         cx="52.142857"
+         cy="89.642853"
+         rx="40"
+         ry="38.214287" />
     </clipPath>
   </defs>
   <sodipodi:namedview
@@ -166,38 +147,34 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="444.80276"
-     inkscape:cy="206.46071"
+     inkscape:zoom="1.4"
+     inkscape:cx="481.42857"
+     inkscape:cy="771.70138"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     units="in">
+     units="in"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid2985"
-       units="in"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       spacingx="0.5in"
-       spacingy="0.5in" />
+       id="grid4414"
+       spacingx="3.1750001"
+       spacingy="3.1750001"
+       empspacing="4" />
   </sodipodi:namedview>
   <metadata
-     id="metadata7">
+     id="metadata3987">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -205,356 +182,485 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-62.362183)">
+     transform="translate(0,-17.599992)">
     <g
        id="g3000"
-       transform="translate(0,44)">
+       transform="matrix(0.28222224,0,0,0.28222224,-3.3264322,13.707268)">
       <text
-         sodipodi:linespacing="125%"
          id="text3068"
          y="166.73088"
          x="177.50404"
-         style="font-size:15.84649754px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Latin Modern Mono;-inkscape-font-specification:Latin Modern Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="166.73088"
            x="177.50404"
-           id="tspan3121"
-           sodipodi:role="line">donkirkby.github.com</tspan></text>
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan3942">https://donkirkby.github.io</tspan></text>
       <image
-         transform="translate(78,0)"
+         sodipodi:absref="/home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
+         xlink:href="gravatar_full.jpg"
+         transform="translate(78)"
          clip-path="url(#clipPath3125)"
          width="88.309479"
          height="79.254303"
-         xlink:href="file:///home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
          id="image3118"
          x="3.6905212"
          y="112.10788" />
       <text
-         sodipodi:linespacing="125%"
          id="text3129"
          y="148.67679"
          x="176.54376"
-         style="font-size:19.37635612px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:MgOpen Cosmetica;-inkscape-font-specification:MgOpen Cosmetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'MgOpen Cosmetica';-inkscape-font-specification:'MgOpen Cosmetica';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="148.67679"
            x="176.54376"
            id="tspan3131"
-           sodipodi:role="line">Playful Programming</tspan></text>
+           sodipodi:role="line"
+           style="font-size:19.37635612px;line-height:1.25">Playful Programming</tspan></text>
     </g>
     <g
-       transform="translate(-0.5437622,222.68539)"
+       transform="matrix(0.28222224,0,0,0.28222224,-3.4799022,64.136256)"
        id="g3000-0">
       <text
-         sodipodi:linespacing="125%"
          id="text3068-9"
          y="166.73088"
          x="177.50404"
-         style="font-size:15.84649754px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Latin Modern Mono;-inkscape-font-specification:Latin Modern Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="166.73088"
            x="177.50404"
            id="tspan3121-6"
-           sodipodi:role="line">donkirkby.github.com</tspan></text>
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">https://donkirkby.github.io</tspan></text>
       <image
-         transform="translate(78,0)"
+         sodipodi:absref="/home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
+         xlink:href="gravatar_full.jpg"
+         transform="translate(78)"
          clip-path="url(#clipPath3125-7)"
          width="88.309479"
          height="79.254303"
-         xlink:href="file:///home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
          id="image3118-7"
          x="3.6905212"
          y="112.10788" />
       <text
-         sodipodi:linespacing="125%"
          id="text3129-9"
          y="148.67679"
          x="176.54376"
-         style="font-size:19.37635612px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:MgOpen Cosmetica;-inkscape-font-specification:MgOpen Cosmetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'MgOpen Cosmetica';-inkscape-font-specification:'MgOpen Cosmetica';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="148.67679"
            x="176.54376"
            id="tspan3131-7"
-           sodipodi:role="line">Playful Programming</tspan></text>
+           sodipodi:role="line"
+           style="font-size:19.37635612px;line-height:1.25">Playful Programming</tspan></text>
     </g>
     <g
-       transform="translate(1,404)"
+       transform="matrix(0.28222224,0,0,0.28222224,-3.0442122,115.30726)"
        id="g3000-6">
       <text
-         sodipodi:linespacing="125%"
          id="text3068-2"
          y="166.73088"
          x="177.50404"
-         style="font-size:15.84649754px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Latin Modern Mono;-inkscape-font-specification:Latin Modern Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="166.73088"
            x="177.50404"
            id="tspan3121-4"
-           sodipodi:role="line">donkirkby.github.com</tspan></text>
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">https://donkirkby.github.io</tspan></text>
       <image
-         transform="translate(78,0)"
+         sodipodi:absref="/home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
+         xlink:href="gravatar_full.jpg"
+         transform="translate(78)"
          clip-path="url(#clipPath3125-4)"
          width="88.309479"
          height="79.254303"
-         xlink:href="file:///home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
          id="image3118-3"
          x="3.6905212"
          y="112.10788" />
       <text
-         sodipodi:linespacing="125%"
          id="text3129-3"
          y="148.67679"
          x="176.54376"
-         style="font-size:19.37635612px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:MgOpen Cosmetica;-inkscape-font-specification:MgOpen Cosmetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'MgOpen Cosmetica';-inkscape-font-specification:'MgOpen Cosmetica';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="148.67679"
            x="176.54376"
            id="tspan3131-1"
-           sodipodi:role="line">Playful Programming</tspan></text>
+           sodipodi:role="line"
+           style="font-size:19.37635612px;line-height:1.25">Playful Programming</tspan></text>
     </g>
     <g
-       transform="translate(0,583)"
+       transform="matrix(0.28222224,0,0,0.28222224,-3.3264322,165.82504)"
        id="g3000-5">
       <text
-         sodipodi:linespacing="125%"
          id="text3068-6"
          y="166.73088"
          x="177.50404"
-         style="font-size:15.84649754px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Latin Modern Mono;-inkscape-font-specification:Latin Modern Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="166.73088"
            x="177.50404"
            id="tspan3121-40"
-           sodipodi:role="line">donkirkby.github.com</tspan></text>
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">https://donkirkby.github.io</tspan></text>
       <image
-         transform="translate(78,0)"
+         sodipodi:absref="/home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
+         xlink:href="gravatar_full.jpg"
+         transform="translate(78)"
          clip-path="url(#clipPath3125-9)"
          width="88.309479"
          height="79.254303"
-         xlink:href="file:///home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
          id="image3118-4"
          x="3.6905212"
          y="112.10788" />
       <text
-         sodipodi:linespacing="125%"
          id="text3129-8"
          y="148.67679"
          x="176.54376"
-         style="font-size:19.37635612px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:MgOpen Cosmetica;-inkscape-font-specification:MgOpen Cosmetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'MgOpen Cosmetica';-inkscape-font-specification:'MgOpen Cosmetica';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="148.67679"
            x="176.54376"
            id="tspan3131-5"
-           sodipodi:role="line">Playful Programming</tspan></text>
+           sodipodi:role="line"
+           style="font-size:19.37635612px;line-height:1.25">Playful Programming</tspan></text>
     </g>
     <g
-       transform="translate(1,765)"
+       transform="matrix(0.28222224,0,0,0.28222224,-3.0442122,217.18949)"
        id="g3000-04">
       <text
-         sodipodi:linespacing="125%"
          id="text3068-1"
          y="166.73088"
          x="177.50404"
-         style="font-size:15.84649754px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Latin Modern Mono;-inkscape-font-specification:Latin Modern Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="166.73088"
            x="177.50404"
            id="tspan3121-7"
-           sodipodi:role="line">donkirkby.github.com</tspan></text>
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">https://donkirkby.github.io</tspan></text>
       <image
-         transform="translate(78,0)"
+         sodipodi:absref="/home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
+         xlink:href="gravatar_full.jpg"
+         transform="translate(78)"
          clip-path="url(#clipPath3125-43)"
          width="88.309479"
          height="79.254303"
-         xlink:href="file:///home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
          id="image3118-8"
          x="3.6905212"
          y="112.10788" />
       <text
-         sodipodi:linespacing="125%"
          id="text3129-38"
          y="148.67679"
          x="176.54376"
-         style="font-size:19.37635612px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:MgOpen Cosmetica;-inkscape-font-specification:MgOpen Cosmetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'MgOpen Cosmetica';-inkscape-font-specification:'MgOpen Cosmetica';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="148.67679"
            x="176.54376"
            id="tspan3131-4"
-           sodipodi:role="line">Playful Programming</tspan></text>
+           sodipodi:role="line"
+           style="font-size:19.37635612px;line-height:1.25">Playful Programming</tspan></text>
     </g>
     <g
        id="g3000-62"
-       transform="translate(357,44)">
+       transform="matrix(0.28222224,0,0,0.28222224,85.785224,13.707268)">
       <text
-         sodipodi:linespacing="125%"
          id="text3068-62"
          y="166.73088"
          x="177.50404"
-         style="font-size:15.84649754px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Latin Modern Mono;-inkscape-font-specification:Latin Modern Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="166.73088"
            x="177.50404"
            id="tspan3121-8"
-           sodipodi:role="line">donkirkby.github.com</tspan></text>
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">https://donkirkby.github.io</tspan></text>
       <image
-         transform="translate(78,0)"
+         sodipodi:absref="/home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
+         xlink:href="gravatar_full.jpg"
+         transform="translate(78)"
          clip-path="url(#clipPath3125-3)"
          width="88.309479"
          height="79.254303"
-         xlink:href="file:///home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
          id="image3118-6"
          x="3.6905212"
          y="112.10788" />
       <text
-         sodipodi:linespacing="125%"
          id="text3129-87"
          y="148.67679"
          x="176.54376"
-         style="font-size:19.37635612px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:MgOpen Cosmetica;-inkscape-font-specification:MgOpen Cosmetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'MgOpen Cosmetica';-inkscape-font-specification:'MgOpen Cosmetica';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="148.67679"
            x="176.54376"
            id="tspan3131-14"
-           sodipodi:role="line">Playful Programming</tspan></text>
+           sodipodi:role="line"
+           style="font-size:19.37635612px;line-height:1.25">Playful Programming</tspan></text>
     </g>
     <g
-       transform="translate(356.45624,222.6854)"
+       transform="matrix(0.28222224,0,0,0.28222224,85.631763,64.136259)"
        id="g3000-0-2">
       <text
-         sodipodi:linespacing="125%"
          id="text3068-9-9"
          y="166.73088"
          x="177.50404"
-         style="font-size:15.84649754px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Latin Modern Mono;-inkscape-font-specification:Latin Modern Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="166.73088"
            x="177.50404"
            id="tspan3121-6-4"
-           sodipodi:role="line">donkirkby.github.com</tspan></text>
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">https://donkirkby.github.io</tspan></text>
       <image
-         transform="translate(78,0)"
+         sodipodi:absref="/home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
+         xlink:href="gravatar_full.jpg"
+         transform="translate(78)"
          clip-path="url(#clipPath3125-7-7)"
          width="88.309479"
          height="79.254303"
-         xlink:href="file:///home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
          id="image3118-7-8"
          x="3.6905212"
          y="112.10788" />
       <text
-         sodipodi:linespacing="125%"
          id="text3129-9-2"
          y="148.67679"
          x="176.54376"
-         style="font-size:19.37635612px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:MgOpen Cosmetica;-inkscape-font-specification:MgOpen Cosmetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'MgOpen Cosmetica';-inkscape-font-specification:'MgOpen Cosmetica';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="148.67679"
            x="176.54376"
            id="tspan3131-7-3"
-           sodipodi:role="line">Playful Programming</tspan></text>
+           sodipodi:role="line"
+           style="font-size:19.37635612px;line-height:1.25">Playful Programming</tspan></text>
     </g>
     <g
-       transform="translate(358,404)"
+       transform="matrix(0.28222224,0,0,0.28222224,86.067448,115.30726)"
        id="g3000-6-6">
       <text
-         sodipodi:linespacing="125%"
          id="text3068-2-5"
          y="166.73088"
          x="177.50404"
-         style="font-size:15.84649754px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Latin Modern Mono;-inkscape-font-specification:Latin Modern Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="166.73088"
            x="177.50404"
            id="tspan3121-4-4"
-           sodipodi:role="line">donkirkby.github.com</tspan></text>
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">https://donkirkby.github.io</tspan></text>
       <image
-         transform="translate(78,0)"
+         sodipodi:absref="/home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
+         xlink:href="gravatar_full.jpg"
+         transform="translate(78)"
          clip-path="url(#clipPath3125-4-9)"
          width="88.309479"
          height="79.254303"
-         xlink:href="file:///home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
          id="image3118-3-2"
          x="3.6905212"
          y="112.10788" />
       <text
-         sodipodi:linespacing="125%"
          id="text3129-3-8"
          y="148.67679"
          x="176.54376"
-         style="font-size:19.37635612px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:MgOpen Cosmetica;-inkscape-font-specification:MgOpen Cosmetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'MgOpen Cosmetica';-inkscape-font-specification:'MgOpen Cosmetica';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="148.67679"
            x="176.54376"
            id="tspan3131-1-4"
-           sodipodi:role="line">Playful Programming</tspan></text>
+           sodipodi:role="line"
+           style="font-size:19.37635612px;line-height:1.25">Playful Programming</tspan></text>
     </g>
     <g
-       transform="translate(357,583)"
+       transform="matrix(0.28222224,0,0,0.28222224,85.785224,165.82504)"
        id="g3000-5-5">
       <text
-         sodipodi:linespacing="125%"
          id="text3068-6-6"
          y="166.73088"
          x="177.50404"
-         style="font-size:15.84649754px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Latin Modern Mono;-inkscape-font-specification:Latin Modern Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="166.73088"
            x="177.50404"
            id="tspan3121-40-6"
-           sodipodi:role="line">donkirkby.github.com</tspan></text>
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">https://donkirkby.github.io</tspan></text>
       <image
-         transform="translate(78,0)"
+         sodipodi:absref="/home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
+         xlink:href="gravatar_full.jpg"
+         transform="translate(78)"
          clip-path="url(#clipPath3125-9-7)"
          width="88.309479"
          height="79.254303"
-         xlink:href="file:///home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
          id="image3118-4-6"
          x="3.6905212"
          y="112.10788" />
       <text
-         sodipodi:linespacing="125%"
          id="text3129-8-7"
          y="148.67679"
          x="176.54376"
-         style="font-size:19.37635612px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:MgOpen Cosmetica;-inkscape-font-specification:MgOpen Cosmetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'MgOpen Cosmetica';-inkscape-font-specification:'MgOpen Cosmetica';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="148.67679"
            x="176.54376"
            id="tspan3131-5-3"
-           sodipodi:role="line">Playful Programming</tspan></text>
+           sodipodi:role="line"
+           style="font-size:19.37635612px;line-height:1.25">Playful Programming</tspan></text>
     </g>
     <g
-       transform="translate(358,765)"
+       transform="matrix(0.28222224,0,0,0.28222224,86.067448,217.18949)"
        id="g3000-04-3">
       <text
-         sodipodi:linespacing="125%"
          id="text3068-1-2"
          y="166.73088"
          x="177.50404"
-         style="font-size:15.84649754px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Latin Modern Mono;-inkscape-font-specification:Latin Modern Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="166.73088"
            x="177.50404"
            id="tspan3121-7-4"
-           sodipodi:role="line">donkirkby.github.com</tspan></text>
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">https://donkirkby.github.io</tspan></text>
       <image
-         transform="translate(78,0)"
+         sodipodi:absref="/home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
+         xlink:href="gravatar_full.jpg"
+         transform="translate(78)"
          clip-path="url(#clipPath3125-43-5)"
          width="88.309479"
          height="79.254303"
-         xlink:href="file:///home/don/git/donkirkby.github.com/business_cards/gravatar_full.jpg"
          id="image3118-8-9"
          x="3.6905212"
          y="112.10788" />
       <text
-         sodipodi:linespacing="125%"
          id="text3129-38-7"
          y="148.67679"
          x="176.54376"
-         style="font-size:19.37635612px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:MgOpen Cosmetica;-inkscape-font-specification:MgOpen Cosmetica"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'MgOpen Cosmetica';-inkscape-font-specification:'MgOpen Cosmetica';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="148.67679"
            x="176.54376"
            id="tspan3131-4-0"
-           sodipodi:role="line">Playful Programming</tspan></text>
+           sodipodi:role="line"
+           style="font-size:19.37635612px;line-height:1.25">Playful Programming</tspan></text>
     </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,30.299997 15.875001,-8e-6"
+       id="path4412"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19.050001,17.599988 v 9.525"
+       id="path4412-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,81.09999 15.875001,-8e-6"
+       id="path4412-9-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,131.89999 15.875001,-1e-5"
+       id="path4412-9-7-7-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,182.69999 15.875001,-1e-5"
+       id="path4412-9-7-7-6-7-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,233.49999 15.875001,-1e-5"
+       id="path4412-9-7-7-6-7-3-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,284.3 15.875001,-1e-5"
+       id="path4412-9-7-7-6-7-3-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 200.02501,30.299989 15.875,-8e-6"
+       id="path4412-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 200.02501,81.099981 15.875,-8e-6"
+       id="path4412-9-7-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 200.02501,131.89999 15.875,-2e-5"
+       id="path4412-9-7-7-6-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 200.02501,182.69998 h 15.875"
+       id="path4412-9-7-7-6-7-3-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 200.02501,233.49998 15.875,-1e-5"
+       id="path4412-9-7-7-6-7-3-6-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 200.02501,284.3 15.875,-1e-5"
+       id="path4412-9-7-7-6-7-3-5-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 107.95,17.599988 v 9.525"
+       id="path4412-5-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 196.85001,17.599988 v 9.525"
+       id="path4412-5-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 19.050001,287.475 V 297"
+       id="path4412-5-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 107.95,287.475 V 297"
+       id="path4412-5-2-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 196.85001,287.475 V 297"
+       id="path4412-5-9-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="40.367859"
+       y="23.60981"
+       id="text4740"><tspan
+         sodipodi:role="line"
+         id="tspan4738"
+         x="40.367859"
+         y="23.60981"
+         style="font-size:4.93888903px;stroke-width:0.26458335">Remember to disable page scaling to printable area.</tspan></text>
   </g>
 </svg>
