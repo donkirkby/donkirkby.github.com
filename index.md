@@ -4,13 +4,13 @@ subtitle: Playful programming
 ---
 
 You found my user page on GitHub. The interesting stuff is on the individual
-project pages, like [Live Coding in Python]. You can contact me
+project pages, like [Live Coding in Python] and [Donimoes]. You can contact me
 [@donkirkby][twitter], or use [e-mail] if you're old school.
 
 If you'd like to help end the AIDS epidemic, [come work with me][jobs].
 
 If you're wondering whether I can write anything besides code, check out my
-Stack Overflow profile:
+[book of domino games and puzzles][Donimoes] or my Stack Overflow profile:
 
 <a href="https://stackoverflow.com/users/4794/don-kirkby">
 <img src="https://stackoverflow.com/users/flair/4794.png" width="208" height="58" 
@@ -36,8 +36,8 @@ talk to me about one of these, or check out some of my other [ideas].
 [ideas]: ideas
 
 ### Board Games and Puzzles
-* [Donimoes] - New games and puzzles I designed, along with games by other
-    designers.
+* [Donimoes] - A book of new games and puzzles I designed, along with some by
+    other designers.
 * [Four-Letter Blocks] - A new type of puzzle I designed that's a mix of
     crossword puzzles and jigsaw puzzles.
 * [Vograbulary] - A collection of word games that might help you grab a few 
@@ -101,7 +101,12 @@ talk to me about one of these, or check out some of my other [ideas].
 * [Live Coding in Python] - Lets you play with Python code, and continuously
     runs the code while you edit it. You can use it to create interesting 
     graphics, or see what's happening inside your code. Now includes a 
-    debugging tool: Space Tracer. 
+    debugging tool: Space Tracer. I'm also adding web tutorials that use the
+    live coding features but run all the Python in your browser - no setup
+    needed!
+* [SaVaGe Turtle] - Take those fun turtle graphics that you built with Live
+    Coding in Python, and convert them to SVG files. Use reportlab to include
+    them in PDFs.
 * [Testing Python] - An essay on unit testing in Python, along with some 
     sample code. 
 * [Kive] - Tracks changes to data processing scripts and links each result 
@@ -152,6 +157,7 @@ talk to me about one of these, or check out some of my other [ideas].
 [animated sorting algorithms]: https://www.toptal.com/developers/sorting-algorithms
 [Chinese Reading Practice]: https://donkirkby.github.io/donkirkby-old/sentences.html
 [tatoeba.org]: https://tatoeba.org/eng/
+[SaVaGe Turtle]: https://donkirkby.github.io/svg-turtle/
 
 ### Other Stuff
 * [Birthday cakes for programmers] - A birthday cake that I designed for a coworker. It's decorated with C
