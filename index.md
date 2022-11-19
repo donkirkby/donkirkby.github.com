@@ -1,10 +1,12 @@
 ---
 title: Don Kirkby
 subtitle: Playful programming
+callouts: index_callouts
 ---
 
 You found my user page on GitHub. The interesting stuff is on the individual
 project pages, like [Live Coding in Python] and [Donimoes]. You can contact me
+on <a rel="me" href="https://libretooth.gr/@donkirkby">Mastodon</a>, on Twitter
 [@donkirkby][twitter], or use [e-mail] if you're old school.
 
 If you'd like to help end the AIDS epidemic, [come work with me][jobs].

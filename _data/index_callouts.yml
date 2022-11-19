@@ -1,0 +1,13 @@
+items:
+  - title: Book
+    subtitle: Domino games and puzzles
+    call_to_action_name: Read
+    call_to_action_link: /donimoes/
+  - title: Tutorials
+    subtitle: Run Python in your browser
+    call_to_action_name: Code
+    call_to_action_link: /live-py-plugin/demo/flags/romania-colombia.html
+  - title: Shirts
+    subtitle: Recreational math
+    call_to_action_name: Wear
+    call_to_action_link: https://www.teepublic.com/user/don-kirkby
