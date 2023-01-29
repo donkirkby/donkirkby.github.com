@@ -28,7 +28,7 @@ public place.
 [Live Coding in Python]: live-py-plugin/
 [twitter]: https://twitter.com/donkirkby
 [e-mail]: mailto:donkirkby@gmail.com
-[jobs]: http://cfenet.ubc.ca/join-us/careers
+[jobs]: https://bccfe.ca/careers
 
 ## Projects
 Here's a list of some projects I've worked on. Let me know if you find any
