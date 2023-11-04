@@ -42,13 +42,13 @@ talk to me about one of these, or check out some of my other [ideas].
     other designers.
 * [Four-Letter Blocks] - A new type of puzzle I designed that's a mix of
     crossword puzzles and jigsaw puzzles.
-* [Chess Kit] - Silly new games I designed for your chess set. Might be a book
-    some day.
+* [Chess Kit] - Lighthearted new games I designed for your chess set. Might be a
+    book some day.
 * [Vograbulary] - A collection of word games that might help you grab a few 
     new words for your vocabulary. Still in early releases with only a few 
     games: Ultraghost, Russian Dolls, and Bacronyms. 
 * [The Infinite Board Game] - A book of games for the piecepack, including 
-    two I designed, one with Jay Cormier. The book comes with a piecepack 
+    two I designed, one with [Jay Cormier]. The book comes with a piecepack 
     (tiles, coins, pawns, and dice) and the rules for 50 games. If you already 
     have a piecepack, the rules for my games are on the [piecepack wiki]. 
 * [Abstract Games Magazine] - I helped out with proofreading and game 
@@ -90,6 +90,7 @@ talk to me about one of these, or check out some of my other [ideas].
 [Chess Kit]: chess-kit/
 [Vograbulary]: vograbulary/
 [The Infinite Board Game]: https://www.amazon.com/dp/0761185151
+[Jay Cormier]: https://offthepagegames.com/
 [piecepack wiki]: http://www.ludism.org/ppwiki/DonKirkby
 [Abstract Games Magazine]: http://www.abstractgames.org/
 [Game and Puzzle Design Journal]: http://gapdjournal.com/
