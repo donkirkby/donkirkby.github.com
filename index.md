@@ -6,8 +6,8 @@ callouts: index_callouts
 
 You found my user page on GitHub. The interesting stuff is on the individual
 project pages, like [Live Coding in Python] and [Donimoes]. You can contact me
-on <a rel="me" href="https://hachyderm.io/@donkirkby">Mastodon</a>, on Twitter
-[@donkirkby][twitter], or use [e-mail] if you're old school.
+on <a rel="me" href="https://hachyderm.io/@donkirkby">Mastodon</a> or use
+[e-mail] if you're old school.
 
 If you'd like to help end the AIDS epidemic, [come work with me][jobs].
 
@@ -26,7 +26,6 @@ have helped several million strangers. Maybe you should try taking notes in a
 public place.
 
 [Live Coding in Python]: live-py-plugin/
-[twitter]: https://twitter.com/donkirkby
 [e-mail]: mailto:donkirkby@gmail.com
 [jobs]: https://bccfe.ca/careers
 
@@ -165,19 +164,57 @@ talk to me about one of these, or check out some of my other [ideas].
 [tatoeba.org]: https://tatoeba.org/eng/
 [SaVaGe Turtle]: https://donkirkby.github.io/svg-turtle/
 
-### Other Stuff
+### My Other Stuff
 * [Birthday cakes for programmers] - A birthday cake that I designed for a coworker. It's decorated with C
         code that prints the words to "Happy Birthday". Also includes a bunch of
         cakes by other people.
-* [Top 40 Years Ago] - Top 40 music history from 40 years ago in a Mastodon feed.
+* <a rel="me" href="https://musician.social/@top40yearsago">Top 40 Years Ago</a>
+- Top 40 music history from 40 years ago in a Mastodon feed.
 
 You can find descriptions of more projects at [my blog].
+
+[Birthday cakes for programmers]: https://donkirkby.blogspot.ca/2011/05/birthday-cakes-for-programmers.html
+[my blog]: https://donkirkby.blogspot.com
+
+### Other People's Stuff
+If you enjoy puzzles as much as I do, here are some that I've really enjoyed
+over the years:
+
+* [Bart Bonte] blogs a steady stream of browser and mobile puzzle games with
+  some real treasures in there. Highly recommended! Start with each year's best
+  of the year post.
+* [0hn0] is a simple logic puzzle a bit like a sudoku. The design is so clean
+  and enjoyable that I play it every morning over breakfast.
+* Another of my daily treats is [Connections] on the New York Times Games page.
+* Connections replaced [Wordle] in my daily routine. Wordle was such a hit that
+  most puzzle enthusiasts know it, but it spawned many imitators. My favourites
+  are [Quordle] and [Pimantle].
+* [Chessformer] is a platformer that combines chess moves and gravity to make
+  really clever puzzles.
+* [Cyadonia] started out as an Amiga puzzle game in 1991 where you move in four
+  directions, interacting with many different objects in each room, unable to
+  stop until you hit something. It has evolved through many platforms over the
+  years collecting more and more levels along the way, and it is now extremely
+  polished and huge. I've only completed a small fraction of it.
+* [Boxing up Bamboo] has a nice combination of simple components with complex
+  interactions. It takes a while to figure out what's happening, and I really
+  like that it fits several interesting puzzles into a single screen.
+* [Strange Keyworld] is a platformer where the control keys you press not only
+  move you, but are objects in the world.
+
+[Bart Bonte]: https://www.bontegames.com/
+[0hn0]: https://0hn0.com/
+[Connections]: https://www.nytimes.com/games/connections
+[Wordle]: https://www.nytimes.com/games/wordle/index.html
+[Quordle]: https://www.merriam-webster.com/games/quordle/#/
+[Pimantle]: https://semantle.pimanrul.es/
+[Chessformer]: https://rob1221.itch.io/chessformer
+[Cyadonia]: https://www.cyadonia.com/
+[Boxing up Bamboo]: https://patrickgh3.itch.io/boxing-up-bamboo
+[Strange Keyworld]: https://unityroom.com/games/strangekeyworld
 
 ### What's in the Picture?
 
 ![Labeled Projects]
 
-[Top 40 Years Ago]: https://musician.social/@top40yearsago
-[Birthday cakes for programmers]: https://donkirkby.blogspot.ca/2011/05/birthday-cakes-for-programmers.html
-[my blog]: https://donkirkby.blogspot.com
 [Labeled Projects]: images/labeled_projects.jpg
