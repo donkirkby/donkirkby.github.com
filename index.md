@@ -168,8 +168,8 @@ talk to me about one of these, or check out some of my other [ideas].
 * [Birthday cakes for programmers] - A birthday cake that I designed for a coworker. It's decorated with C
         code that prints the words to "Happy Birthday". Also includes a bunch of
         cakes by other people.
-* <a rel="me" href="https://musician.social/@top40yearsago">Top 40 Years Ago</a>
-- Top 40 music history from 40 years ago in a Mastodon feed.
+* <a rel="me" href="https://musician.social/@top40yearsago">Top 40 Years Ago</a> -
+  Top 40 music history from 40 years ago in a Mastodon feed.
 
 You can find descriptions of more projects at [my blog].
 
