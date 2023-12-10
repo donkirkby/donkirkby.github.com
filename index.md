@@ -90,8 +90,8 @@ talk to me about one of these, or check out some of my other [ideas].
 [Vograbulary]: vograbulary/
 [The Infinite Board Game]: https://www.amazon.com/dp/0761185151
 [Jay Cormier]: https://offthepagegames.com/
-[piecepack wiki]: http://www.ludism.org/ppwiki/DonKirkby
-[Abstract Games Magazine]: http://www.abstractgames.org/
+[piecepack wiki]: https://www.ludism.org/ppwiki/DonKirkby
+[Abstract Games Magazine]: https://www.abstractgames.org/
 [Game and Puzzle Design Journal]: http://gapdjournal.com/
 [free articles]: http://gapdjournal.com/issues/
 [Blind Hex]: blind-hex/
@@ -150,15 +150,15 @@ talk to me about one of these, or check out some of my other [ideas].
 
 [Testing Python]: testing/
 [Kive]: https://cfe-lab.github.io/Kive/
-[BC Centre for Excellence in HIV/AIDS]: http://cfenet.ubc.ca/
+[BC Centre for Excellence in HIV/AIDS]: https://bccfe.ca/
 [MiCall]: https://github.com/cfe-lab/MiCall
 [Ticking Test]: https://donkirkby.github.io/donkirkby-old/TickingTest
-[MultithreadedTC]: https://code.google.com/p/multithreadedtc/
+[MultithreadedTC]: https://code.google.com/archive/p/multithreadedtc/
 [Ticking Test repository]: https://github.com/donkirkby/donkirkby-old/tree/master/TickingTest
 [Simple Chinese Writer]: https://github.com/donkirkby/pinyincushion
 [Simple Writer]: https://xkcd.com/simplewriter/
 [Chinese Vocabulary Flashcards]: https://donkirkby.github.io/donkirkby-old/ChineseVocabulary
-[sorting algorithms]: https://web.archive.org/web/20170917130815/http://sortvis.org/
+[sorting algorithms]: https://donkirkby.github.io/sortvis/
 [animated sorting algorithms]: https://www.toptal.com/developers/sorting-algorithms
 [Chinese Reading Practice]: https://donkirkby.github.io/donkirkby-old/sentences.html
 [tatoeba.org]: https://tatoeba.org/eng/
@@ -206,7 +206,7 @@ over the years:
 [0hn0]: https://0hn0.com/
 [Connections]: https://www.nytimes.com/games/connections
 [Wordle]: https://www.nytimes.com/games/wordle/index.html
-[Quordle]: https://www.merriam-webster.com/games/quordle/#/
+[Quordle]: https://www.merriam-webster.com/games/quordle/
 [Pimantle]: https://semantle.pimanrul.es/
 [Chessformer]: https://rob1221.itch.io/chessformer
 [Cyadonia]: https://www.cyadonia.com/
