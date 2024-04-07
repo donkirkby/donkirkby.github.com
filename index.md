@@ -43,6 +43,9 @@ talk to me about one of these, or check out some of my other [ideas].
     crossword puzzles and jigsaw puzzles.
 * [Chess Kit] - Lighthearted new games I designed for your chess set. Might be a
     book some day.
+* [Book Blender] - A word puzzle I designed that lets you read a short story
+    while you solve it. It's a bit like a series of word sudokus, where the
+    solution of each section is the next paragraph of the story you're reading. 
 * [Vograbulary] - A collection of word games that might help you grab a few 
     new words for your vocabulary. Still in early releases with only a few 
     games: Ultraghost, Russian Dolls, and Bacronyms. 
@@ -87,6 +90,7 @@ talk to me about one of these, or check out some of my other [ideas].
 [Donimoes]: donimoes/
 [Four-Letter Blocks]: four-letter-blocks/
 [Chess Kit]: chess-kit/
+[Book Blender]: book-blender/
 [Vograbulary]: vograbulary/
 [The Infinite Board Game]: https://www.amazon.com/dp/0761185151
 [Jay Cormier]: https://offthepagegames.com/
