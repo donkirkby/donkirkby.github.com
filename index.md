@@ -86,6 +86,10 @@ talk to me about one of these, or check out some of my other [ideas].
     writing a program to play several games in the collection. I'm also writing
     Zero Play as a general-purpose Python library that can learn to play any
     kind of board game.
+* [A Twisted Enigma] - A puzzle with a niche audience, but I was pleased with
+    the idea, and I think it looks nice. I've also posted several
+    [bonus problems] for my other puzzles on the same web site, the puzzling
+    stack exchange.
 
 [Donimoes]: donimoes/
 [Four-Letter Blocks]: four-letter-blocks/
@@ -105,6 +109,8 @@ talk to me about one of these, or check out some of my other [ideas].
 [Akron]: https://donkirkby.blogspot.com/2011/11/akron-board-milling-project.html
 [Shibumi]: https://donkirkby.github.io/shibumi-games/
 [Zero Play]: https://donkirkby.github.io/zero-play/
+[A Twisted Enigma]: https://puzzling.stackexchange.com/q/91664/38
+[bonus problems]: https://puzzling.stackexchange.com/users/38/don-kirkby?tab=questions&sort=votes
 
 ### Software
 * [Live Coding in Python] - Lets you play with Python code, and continuously
