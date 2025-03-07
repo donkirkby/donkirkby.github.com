@@ -193,6 +193,10 @@ over the years:
 * [Bart Bonte] blogs a steady stream of browser and mobile puzzle games with
   some real treasures in there. Highly recommended! Start with each year's best
   of the year post.
+* [Dragonsweeper] is a really clever mashup between the old minesweeper puzzle
+  and roguelike dungeon crawlers. The mechanic for leveling up is really clean,
+  and it has a few extra quests to keep it interesting after you win the basic
+  game.
 * [0hn0] is a simple logic puzzle a bit like a sudoku. The design is so clean
   and enjoyable that I play it every morning over breakfast.
 * Another of my daily treats is [Connections] on the New York Times Games page.
@@ -213,6 +217,7 @@ over the years:
   move you, but are objects in the world.
 
 [Bart Bonte]: https://www.bontegames.com/
+[Dragonsweeper]: https://danielben.itch.io/dragonsweeper
 [0hn0]: https://0hn0.com/
 [Connections]: https://www.nytimes.com/games/connections
 [Wordle]: https://www.nytimes.com/games/wordle/index.html
