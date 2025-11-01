@@ -7,7 +7,8 @@ callouts: index_callouts
 You found my user page on GitHub. The interesting stuff is on the individual
 project pages, like [Live Coding in Python] and [Donimoes]. You can contact me
 on <a rel="me" href="https://hachyderm.io/@donkirkby">Mastodon</a> or use
-[e-mail] if you're old school.
+[e-mail] if you're old school. Sign up for my [newsletter] to hear about new
+games, puzzles, and software as I publish them.
 
 If you'd like to help end the AIDS epidemic, [come work with me][jobs].
 
@@ -25,6 +26,7 @@ programming problem, so it seems very odd to me that the site says those notes
 have helped several million strangers. Maybe you should try taking notes in a
 public place.
 
+[newsletter]: https://groups.google.com/g/don-kirkby-games
 [Live Coding in Python]: live-py-plugin/
 [e-mail]: mailto:donkirkby@gmail.com
 [jobs]: https://bccfe.ca/careers
