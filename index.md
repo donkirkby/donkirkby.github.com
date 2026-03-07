@@ -65,6 +65,9 @@ talk to me about one of these, or check out some of my other [ideas].
     using design elements to embed the rules of a game in the game components. 
     The journal is now on hiatus, but you can still buy the old issues, or you 
     can read a few [free articles] posted on the web site.
+* [Oneonta Whist] - I added a scoring mechanism to this trick-taking solitaire
+    card game. Recommended if you prefer solitaire games with more interesting
+    decisions. Includes a bonus Cribbage solitaire.
 * [Blind Hex] - I designed this board game to try and make simultaneous 
     movement as elegant as possible. I also used it to test out my Live Coding 
     in Python tool when I wrote the code to draw the game board. 
@@ -104,6 +107,7 @@ talk to me about one of these, or check out some of my other [ideas].
 [Abstract Games Magazine]: https://www.abstractgames.org/
 [Game and Puzzle Design Journal]: http://gapdjournal.com/
 [free articles]: http://gapdjournal.com/issues/
+[Oneonta Whist]: oneonta-whist
 [Blind Hex]: blind-hex/
 [Fortune Puzzles]: https://donkirkby.github.io/donkirkby-old/FortunePuzzles
 [The Time Traveller's Tow Truck]: https://donkirkby.github.io/donkirkby-old/TimeTravellersTowTruck

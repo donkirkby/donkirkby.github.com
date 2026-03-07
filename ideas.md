@@ -9,10 +9,6 @@ new projects that I've been thinking of starting:
     it out, and maybe contribute a mutator or something.
 * **Chinese poems to read** - Crawl the examples at [chinese-poems.com][] and
     look for ones that use vocabulary I know.
-* **Glitch Twitterbot** - Try out [Glitch][] with a toy project like a
-    twitterbot. Looks at following relationships to find two influential tweeters
-    where A follows B directly, but B follows A through n hops. Make a
-    competition of it, and announce each day/week's winner.
 * **Geysers** - Explorable explanation of how geysers work. @ncasenmare mentioned
     some libraries that help build explorable explanations.
 * **BitTorrent visualization** - Explain how the BitTorrent protocol works.
@@ -48,7 +44,6 @@ new projects that I've been thinking of starting:
     own.
 
 [chinese-poems.com]: http://www.chinese-poems.com/
-[Glitch]: https://glitch.com/
 [sortvis.org]: http://sortvis.org
 [ggp.org]: http://www.ggp.org/
 [palamedes-ide]: http://palamedes-ide.sourceforge.net/
