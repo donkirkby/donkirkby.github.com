@@ -14,7 +14,7 @@ Prepare the main deck by selecting the 9s through Kings in four suits from a
 standard deck, plus the Ace of diamonds and the Ace of clubs, giving a deck of
 22 cards.
 
-Prepare the prediction deck by selecting the Ace through 8 of Hearts. Place the
+Prepare the prediction deck by selecting the Ace through 8 of hearts. Place the
 hearts above the playing area with the 8 face down, and the rest fanned face up
 in order.
 
