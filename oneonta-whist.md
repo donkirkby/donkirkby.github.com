@@ -11,7 +11,7 @@ I adapted a scoring mechanism inspired by Shut The Box.
 
 ### Setup
 Prepare the main deck by selecting the 9s through Kings in four suits from a
-standard deck, plus the Ace of Diamonds and the Ace of clubs, giving a deck of
+standard deck, plus the Ace of diamonds and the Ace of clubs, giving a deck of
 22 cards.
 
 Prepare the prediction deck by selecting the Ace through 8 of Hearts. Place the
@@ -62,8 +62,9 @@ the first card.
 ### Scoring
 After every hand, count how many tricks you won, and compare it to your
 prediction. You must pay penalty cards for the difference, whether too high or
-too low. Shuffle all the cards in the main deck, then deal the penalty cards
-to a penalty pile, along with the prediction card.
+too low. Shuffle all the cards in the main deck, that's everything except the
+prediction cards and the penalty pile. Then deal the penalty cards from the main
+deck to create a penalty pile, and add the prediction card to the penalty pile.
 
 For example, if you predicted three tricks but took five, then you would have to
 deal two penalty cards to the penalty pile, plus the 3 of hearts that you
