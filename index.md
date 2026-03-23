@@ -8,7 +8,8 @@ You found my user page on GitHub. The interesting stuff is on the individual
 project pages, like [Live Coding in Python] and [Donimoes]. You can contact me
 on <a rel="me" href="https://hachyderm.io/@donkirkby">Mastodon</a> or use
 [e-mail] if you're old school. Sign up for my [newsletter] to hear about new
-games, puzzles, and software as I publish them.
+games, puzzles, and software as I publish them, as well as board game nights
+that I host around Vancouver.
 
 If you'd like to help end the AIDS epidemic, [come work with me][jobs].
 
